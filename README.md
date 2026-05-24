@@ -1,4 +1,3 @@
-<img width="1360" height="2288" alt="_E__Netflixdataset_DBT%20project_Final%20Data%20analytics%20Dashboard_netflix_analytics_by%20claudeai html (1)" src="https://github.com/user-attachments/assets/0fae7ef6-e344-4d18-a4b1-7b1431969909" /># Netflix Data Analytics Platform
 
 A comprehensive data analytics pipeline for Netflix movie ratings analysis using **dbt (data build tool)** and **modern data stack technologies**. This project transforms raw Netflix dataset into actionable insights with interactive visualizations and quality validation.
 
@@ -298,7 +297,8 @@ dbt docs serve
 ### View Dashboard
 Open the HTML dashboard: file:///E:/Netflixdataset_DBT%20project/Final%20Data%20analytics%20Dashboard/netflix_analytics_by%20claudeai.html
 ```
-<img width="1360" height="2288" alt="_E__Netflixdataset_DBT%20project_Final%20Data%20analytics%20Dashboard_netflix_analytics_by%20claudeai html (1)" src="https://github.com/user-attachments/assets/dbdf5328-bce3-40da-8eda-80e0037fded1" />
+<img width="1360" height="2288" alt="_E__Netflixdataset_DBT%20project_Final%20Data%20analytics%20Dashboard_netflix_analytics_by%20claudeai html (1)" src="https://github.com/user-attachments/assets/6f369f94-8b07-4fdc-8bfb-78f5f438b85d" />
+
 
 ```
 
