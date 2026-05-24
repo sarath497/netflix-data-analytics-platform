@@ -1,0 +1,20 @@
+name: 'netflixdataset'
+version: '1.0.0'
+
+profile: 'netflixdataset'
+
+model-paths: ["netflixdataset/models"]
+analysis-paths: ["netflixdataset/analyses"]
+test-paths: ["netflixdataset/tests"]
+seed-paths: ["netflixdataset/seeds"]
+macro-paths: ["netflixdataset/macros"]
+snapshot-paths: ["netflixdataset/snapshots"]
+
+clean-targets:
+  - "netflixdataset/target"
+  - "netflixdataset/dbt_packages"
+
+models:
+  netflixdataset:
+    example:
+      +materialized: view
