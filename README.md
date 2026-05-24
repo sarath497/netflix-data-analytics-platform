@@ -1,10 +1,10 @@
-# Netflix Data Analytics Platform
+<img width="1360" height="2288" alt="_E__Netflixdataset_DBT%20project_Final%20Data%20analytics%20Dashboard_netflix_analytics_by%20claudeai html (1)" src="https://github.com/user-attachments/assets/0fae7ef6-e344-4d18-a4b1-7b1431969909" /># Netflix Data Analytics Platform
 
 A comprehensive data analytics pipeline for Netflix movie ratings analysis using **dbt (data build tool)** and **modern data stack technologies**. This project transforms raw Netflix dataset into actionable insights with interactive visualizations and quality validation.
 
 ---
 
-## 📊 Architecture Diagram
+## Architecture Diagram
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
@@ -71,7 +71,7 @@ dbt-labs/dbt_utils: 1.3.0
 
 ---
 
-## 📈 Pipeline Flow
+## Pipeline Flow
 
 ### Data Processing Flow
 
@@ -120,7 +120,7 @@ models:
 
 ---
 
-## 📚 DBT Models
+## DBT Models
 
 ### Project Structure
 ```
@@ -158,7 +158,7 @@ netflixdataset/
 
 ---
 
-## ✅ Validation Logic
+## Validation Logic
 
 ### Quality Checks Implemented
 
@@ -187,7 +187,7 @@ Located in `netflixdataset/macros/`:
 
 ---
 
-## 📊 Dashboard Screenshots
+## Dashboard Screenshots
 
 ### Overview
 The Netflix Analytics dashboard provides comprehensive insights into movie ratings and viewer preferences with a Netflix-themed dark UI.
@@ -243,12 +243,12 @@ Interactive guide explaining:
 
 #### 6. **Rankings Tables**
 
-**🏆 Top Rated** (Highest average ratings, min. 1K reviews)
-**🔥 Most Popular** (Most reviewed movies of all time)
+** Top Rated** (Highest average ratings, min. 1K reviews)
+** Most Popular** (Most reviewed movies of all time)
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - dbt Core v1.3+
@@ -296,14 +296,15 @@ dbt docs serve
 ```
 
 ### View Dashboard
-Open the HTML dashboard:
+Open the HTML dashboard: file:///E:/Netflixdataset_DBT%20project/Final%20Data%20analytics%20Dashboard/netflix_analytics_by%20claudeai.html
 ```
-Final Data analytics Dashboard/netflix_analytics_by claudeai.html
+<img width="1360" height="2288" alt="_E__Netflixdataset_DBT%20project_Final%20Data%20analytics%20Dashboard_netflix_analytics_by%20claudeai html (1)" src="https://github.com/user-attachments/assets/dbdf5328-bce3-40da-8eda-80e0037fded1" />
+
 ```
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 netflix-data-analytics-platform/
@@ -328,7 +329,7 @@ netflix-data-analytics-platform/
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 ### Data Summary
 - **Dataset Size**: 8,532 unique movies
@@ -348,7 +349,7 @@ netflix-data-analytics-platform/
 
 ---
 
-## 🛡️ Data Quality Standards
+## Data Quality Standards
 
 ✅ **No NULL values** in critical fields
 ✅ **Duplicate detection** on movie identifiers
@@ -359,7 +360,7 @@ netflix-data-analytics-platform/
 
 ---
 
-## 📝 Usage Examples
+## Usage Examples
 
 ### Generate dbt documentation
 ```bash
@@ -385,27 +386,14 @@ dbt docs generate
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit pull requests or open issues for bugs and feature requests.
 
----
-
-## 📄 License
-
-This project is open source and available under the MIT License.
 
 ---
 
-## 📞 Support
-
-For issues, questions, or suggestions:
-- Open an issue on [GitHub](https://github.com/sarath497/netflix-data-analytics-platform/issues)
-- Check existing documentation in the repository
-
----
-
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Netflix Dataset for comprehensive movie ratings
 - dbt Labs for the amazing data transformation framework
