@@ -298,8 +298,6 @@ dbt docs serve
 Open the HTML dashboard: file:///E:/Netflixdataset_DBT%20project/Final%20Data%20analytics%20Dashboard/netflix_analytics_by%20claudeai.html
 ```
 <img width="1360" height="2288" alt="_E__Netflixdataset_DBT%20project_Final%20Data%20analytics%20Dashboard_netflix_analytics_by%20claudeai html (1)" src="https://github.com/user-attachments/assets/6f369f94-8b07-4fdc-8bfb-78f5f438b85d" />
-
-
 ```
 
 ---
