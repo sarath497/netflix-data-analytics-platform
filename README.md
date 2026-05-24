@@ -51,7 +51,7 @@ A comprehensive data analytics pipeline for Netflix movie ratings analysis using
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Technology | Purpose |
 |----------|-----------|---------|
